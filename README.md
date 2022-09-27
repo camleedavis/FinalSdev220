@@ -4,7 +4,7 @@ Our CLient
 (TBD)
 Project Focus
 
-*Group Members*
+***Group Members***
 
 Camron Davis (Role TBD)
 
