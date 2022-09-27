@@ -1,6 +1,6 @@
 # FinalSdev220
 
-Our CLient
+Our Client
 (TBD)
 Project Focus
 
